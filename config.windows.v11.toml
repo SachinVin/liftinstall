@@ -48,7 +48,7 @@ icon = "citra.png"
 default = true
     [packages.source]
     name = "github"
-    match = "^citra-windows-mingw-[0-9]*-[0-9a-f]*.tar.xz$"
+    match = "^citra-windows-mingw-[0-9]*-[0-9a-f]*.tar.gz$"
         [packages.source.config]
         repo = "citra-emu/citra-nightly"
     [[packages.shortcuts]]
